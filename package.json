@@ -1,5 +1,5 @@
 {
-  "name": "npdf",
+  "name": "p_pdf",
   "author": "Prem <prem.mohapatra@gmail.com>",
   "description": "pdf viewer using emscripten compiled pdfium + node-x11 X Window client",
   "keywords": [
